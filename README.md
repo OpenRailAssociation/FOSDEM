@@ -39,7 +39,7 @@ Here is the list of all talks and their respective moderators/coordinators:
 
 ## Speaker information
 
-Accepted speakers should receive information about organisational and technical details in advance by the FOSDEM organisers. We will also link/copy them here as soon as we receive them.
+Accepted speakers should have received information about organisational and technical details in advance by the FOSDEM organisers on 25 January. Please find the (retracted) email [here](2023-01-25-fosdem-speaker-info.md).
 
 As a speaker in the devroom, at least one of the devroom organisers will be your personal contact, online and on-site. They will get in touch with you before FOSDEM via email.
 

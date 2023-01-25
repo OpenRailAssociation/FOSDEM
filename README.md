@@ -43,6 +43,14 @@ Accepted speakers should have received information about organisational and tech
 
 As a speaker in the devroom, at least one of the devroom organisers will be your personal contact, online and on-site. They will get in touch with you before FOSDEM via email.
 
+Please be in the devroom at least 5 minutes before the start of your talk so we can connect your equipment and wire you up.
+
+We will have to cut you off 5 minutes before the scheduled end of your talk to allow the audience to switch rooms and set up the next speaker.
+
+There is no fixed Q&A time, but we would appreciate if you planned some minutes for the audience to ask questions.
+
+Please note that FOSDEM hallways are very crowded and rooms sometimes hard to find, so plan for extra minutes to get from A to B.
+
 ## How can I contact you?
 
 You can reach the devroom's coordinators via email: `transport-devroom-manager (at) fosdem.org`

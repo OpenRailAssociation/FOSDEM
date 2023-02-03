@@ -33,9 +33,9 @@ Here is the list of all talks and their respective moderators/coordinators:
 | Digitransit                                                      | 12:30 | Mahalia Stephan      |
 | OpenTripPlanner                                                  | 12:50 | Simon Clavier        |
 | Developing open transport toolbox and community for ten years    | 13:20 | Simon Clavier        |
-| Public Transport Data in KDE Itinerary                           | 13:35 | Max Mehl             |
-| OpenStreetMap, one geographic database to rule them all?         | 14:05 | Max Mehl             |
-| Closing Railways and Open Transport devroom                      | 14:25 | Max Mehl             |
+| Public Transport Data in KDE Itinerary                           | 13:35 | Simon Clavier        |
+| OpenStreetMap, one geographic database to rule them all?         | 14:05 | Simon Clavier        |
+| Closing Railways and Open Transport devroom                      | 14:25 | Simon Clavier        |
 
 ## Speaker information
 

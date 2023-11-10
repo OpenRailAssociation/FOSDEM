@@ -4,9 +4,9 @@ This repository collects information and resources in the scope of the [Railways
 
 The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.com/cornelius)), Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin)), Max Mehl ([@mxmehl](https://github.com/mxmehl)), Peter Keller and Simon Clavier ([@SimonClavier](https://github.com/SimonClavier)) as part of the wider OpenRail community.
 
-## Call for Presentation
+## Call for Presentations
 
-Until 1 December 2023, the Call for Presentation is open. Please head to [this dedicated article](2023-11-10-fosdem-cfp.md) on how to submit. We look forward to your interesting proposals!
+Until 1 December 2023, the Call for Presentations is open. Please head to [this dedicated article](2024-cfp.md) on how to submit. We look forward to your interesting proposals!
 
 ## Attendee information
 
@@ -23,7 +23,7 @@ Once we know the location, you will find detailed information here.
 
 ## Talks
 
-The talks are not decided yet. Please head to the [Call for Presentations](2023-11-10-fosdem-cfp.md) to submit one. Deadline: 1 December 2023!
+The talks are not decided yet. Please head to the [Call for Presentations](2024-cfp.md) to submit one. Deadline: 1 December 2023!
 
 ## Speaker information
 
@@ -31,4 +31,6 @@ Accepted speakers will be informed in time.
 
 ## How can I contact you?
 
-You can reach the devroom's coordinators via email: `railways-devroom-devroom-manager (at) fosdem.org	`
+You can reach the devroom's coordinators via email: `railways-devroom-devroom-manager (at) fosdem.org`
+
+The current coordinators are listed on the [main page](https://github.com/OpenRailAssociation/FOSDEM).

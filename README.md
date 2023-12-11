@@ -6,7 +6,7 @@ The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.
 
 ## Call for Presentations
 
-Until 1 December 2023, the Call for Presentations is open. Please head to [this dedicated article](2024-cfp.md) on how to submit. We look forward to your interesting proposals!
+The [Call for Participation](2024-cfp.md) has ended and we reviewed many interesting proposals. We have created a tentative schedule and are now waiting for speaker confirmations.
 
 ## Attendee information
 
@@ -14,16 +14,16 @@ We will compose an exciting programme for everyone interested railways, mapping,
 
 **Date**: Saturday, 3 February 2024\
 **Time**: 10:30 - 14:30 CET\
-**Location**: TBD\
+**Location**: Room K.4.401\
 **Schedule**: See the [devroom's page](https://fosdem.org/2024/schedule/track/railways-and-open-transport/) or below
 
 ### How to get there?
 
-Once we know the location, you will find detailed information here.
+The devroom will take place in room K.4.401. You will find information about how to get to the venue [here](https://fosdem.org/2024/practical/transportation/).
 
 ## Talks
 
-The talks are not decided yet. Please head to the [Call for Presentations](2024-cfp.md) to submit one. Deadline: 1 December 2023!
+You will find the confirmed talk [on the devroom website](https://fosdem.org/2024/schedule/track/railways-and-open-transport/).
 
 ## Speaker information
 

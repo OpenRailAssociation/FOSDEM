@@ -1,29 +1,18 @@
 # Railways and Open Transport devroom @ FOSDEM
 
-This repository collects information and resources in the scope of the [Railways and Open Transport devroom](https://fosdem.org/2024/schedule/track/railways-and-open-transport/) at FOSDEM 2024. You are welcome to extend and improve it!
+This repository collects information and resources in the scope of the **Railways and Open Transport devroom** at [FOSDEM](https://fosdem.org) ([2024 edition](https://fosdem.org/2024/schedule/track/railways-and-open-transport/), [2023 edition](https://archive.fosdem.org/2023/schedule/track/railways_and_open_transport/)). You are welcome to extend and improve it!
 
-The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.com/cornelius)), Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin)), Max Mehl ([@mxmehl](https://github.com/mxmehl)), Peter Keller and Simon Clavier ([@SimonClavier](https://github.com/SimonClavier)) as part of the wider OpenRail community.
+The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.com/cornelius)), Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin)), Max Mehl ([@mxmehl](https://github.com/mxmehl)), Peter Keller, and Simon Clavier ([@SimonClavier](https://github.com/SimonClavier)) and some more people as part of the wider OpenRail community.
 
 ## Call for Presentations
 
-The [Call for Participation](2024-cfp.md) has ended and we reviewed many interesting proposals. Thanks for the many great proposals, it has been a hard choice!
+The [Call for Participation](2025-cfp.md) his open and we are looking forward to your proposals. Please don't hesitate and submit presentations for anything open around railways and open transport you are working on.
+
+The devroom will take place on February 2 2025 in the afternoon.
 
 ## Attendee information
 
-We composed an exciting programme for everyone interested railways, mapping, routing, ticketing, and connected topics:
-
-**Date**: Saturday, 3 February 2024\
-**Time**: 10:30 - 14:30 CET\
-**Location**: Room K.4.401\
-**Schedule**: See the [devroom's page](https://fosdem.org/2024/schedule/track/railways-and-open-transport/) or below
-
-### How to get there?
-
-The devroom will take place in **room K.4.401**. It is in the K building three floors above ground level:
-
-![Map of room K.4.401](img/map-k4.401.png "Map of room K.4.401")
-
-You will find information about how to get to the venue [here](https://fosdem.org/2024/practical/transportation/).
+Details will be added as soon as they are available.
 
 ## Speaker information
 
@@ -40,6 +29,6 @@ Presentation:
 
 ## How can I contact you?
 
-You can reach the devroom's coordinators via email: `railways-devroom-devroom-manager (at) fosdem.org`
+You can reach the devroom's coordinators by opening a thread on the [discussions board](https://github.com/OpenRailAssociation/FOSDEM/discussions).
 
 The current coordinators are listed on the top of this file.

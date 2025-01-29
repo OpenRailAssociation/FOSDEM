@@ -1,6 +1,6 @@
 # Railways and Open Transport devroom @ FOSDEM
 
-This repository collects information and resources in the scope of the [Railways and Open Transport devroom](https://fosdem.org/2025/schedule/track/railways/) at FOSDEM 2025. You are welcome to extend and improve it!
+This repository collects information and resources in the scope of the [Railways and Open Transport devroom](https://fosdem.org/2025/schedule/track/railways/) at FOSDEM 2025 ([2024 edition](https://fosdem.org/2024/schedule/track/railways-and-open-transport/), [2023 edition](https://archive.fosdem.org/2023/schedule/track/railways_and_open_transport/)). You are welcome to extend and improve it!
 
 The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.com/cornelius)), Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin)), Max Mehl ([@mxmehl](https://github.com/mxmehl)), Peter Keller,  Simon Clavier ([@SimonClavier](https://github.com/SimonClavier)), Tu-Tho Thai, and Brede Dammen as part of the wider OpenRail community.
 
@@ -40,4 +40,4 @@ Presentation:
 
 ## How can I contact you?
 
-You can reach the devroom's organizers by starting a [discussion](https://github.com/OpenRailAssociation/FOSDEM/discussions) in this repository. Or look up one of the co-corganizers and contact them directly. They are listed at the top of this file.
+You can reach the devroom's organizers by starting a [discussion](https://github.com/OpenRailAssociation/FOSDEM/discussions) in this repository. Or look up one of the co-organizers and contact them directly. They are listed at the top of this file.

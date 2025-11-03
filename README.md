@@ -1,29 +1,38 @@
 # Railways and Open Transport devroom @ FOSDEM
 
-This repository collects information and resources in the scope of the [Railways and Open Transport devroom](https://fosdem.org/2025/schedule/track/railways/) at FOSDEM 2025 ([2024 edition](https://fosdem.org/2024/schedule/track/railways-and-open-transport/), [2023 edition](https://archive.fosdem.org/2023/schedule/track/railways_and_open_transport/)). You are welcome to extend and improve it!
+This repository collects information and resources in the scope of the [Railways and Open Transport devroom](https://fosdem.org/2026/schedule/track/railways-and-open-transport/) at FOSDEM 2026 (previous editions in [2023](https://archive.fosdem.org/2023/schedule/track/railways_and_open_transport/), [2024](https://archive.fosdem.org/2024/schedule/track/railways-and-open-transport/) and [2025](https://archive.fosdem.org/2025/schedule/track/railways/)). You are welcome to extend and improve it!
 
-The hosts of this devroom are Cornelius Schumacher ([@cornelius](https://github.com/cornelius)), Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin)), Max Mehl ([@mxmehl](https://github.com/mxmehl)), Peter Keller,  Simon Clavier ([@SimonClavier](https://github.com/SimonClavier)), Tu-Tho Thai, and Brede Dammen as part of the wider OpenRail community.
+The hosts of this year's edition are:
+
+* Brede Dammen ([@BredeD](https://github.com/BredeD))
+* Cornelius Schumacher ([@cornelius](https://github.com/cornelius))
+* Felix Gündling ([@felixguendling](https://github.com/felixguendling))
+* Loïc Hamelin ([@loic-hamelin](https://github.com/loic-hamelin))
+* Max Mehl ([@mxmehl](https://github.com/mxmehl))
+* Peter Keller ([@KellerPeter](https://github.com/Keller-Peter))
+* Simon Clavier ([@SimonClavier](https://github.com/SimonClavier))
+* Tu-Tho Thai
 
 ## Call for Presentations
 
-The [Call for Participation](2025-cfp.md) has ended and we reviewed many interesting proposals. Thanks for the many great proposals, it has been a hard choice!
+The [Call for Participation](2026-cfp.md) is open! We are looking forward to receiving your proposals for presentations. Deadline for submissions is 30 November 2025 23:59 CET.
 
 ## Attendee information
 
 We composed an exciting program for everyone interested railways, mapping, routing, ticketing, and connected topics:
 
-**Date**: Sunday, 2 February 2025\
-**Time**: 13:15 - 17:00 CET\
-**Location**: Room K.4.601\
-**Schedule**: See the [devroom's page](https://fosdem.org/2025/schedule/track/railways/)
+**Date**: Sunday, 1 February 2026 (may be changed)\
+**Time**: 13:15 - 17:00 CET (may be changed)\
+**Location**: TBD\
+**Schedule**: See the [devroom's page](https://fosdem.org/2026/schedule/track/railways-and-open-transport/)
 
 ### How to get there?
 
-The devroom will take place in **room K.4.601**. It is in the K building four floors above ground level:
+The devroom will take place in **room TBD**. It is in the TBD building TBD floors above ground level:
 
-![Map of room K.4.601](img/map-k4.601.png "Map of room K.4.601")
+<!-- ![Map of room K.4.601](img/map-k4.601.png "Map of room K.4.601") -->
 
-You will find information about how to get to the venue [here](https://fosdem.org/2025/practical/transportation/).
+You will find information about how to get to the venue [here](https://fosdem.org/2026/practical/transportation/).
 
 ## Speaker information
 

@@ -21,8 +21,8 @@ The [Call for Participation](2026-cfp.md) is open! We are looking forward to rec
 
 We composed an exciting program for everyone interested railways, mapping, routing, ticketing, and connected topics:
 
-**Date**: Sunday, 1 February 2026 (may be changed)\
-**Time**: 13:15 - 17:00 CET (may be changed)\
+**Date**: Sunday, 31 January 2026\
+**Time**: 13:00 - 17:00 CET (tentatively)\
 **Location**: TBD\
 **Schedule**: See the [devroom's page](https://fosdem.org/2026/schedule/track/railways-and-open-transport/)
 

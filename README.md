@@ -15,7 +15,7 @@ The hosts of this year's edition are:
 
 ## Call for Presentations
 
-The [Call for Participation](2026-cfp.md) is open! We are looking forward to receiving your proposals for presentations. Deadline for submissions is 30 November 2025 23:59 CET.
+The [Call for Participation](2026-cfp.md) is open! We are looking forward to receiving your proposals for presentations. Deadline for submissions is 7 December 2025 23:59 CET.
 
 ## Attendee information
 

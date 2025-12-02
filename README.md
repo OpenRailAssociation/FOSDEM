@@ -11,7 +11,7 @@ The hosts of this year's edition are:
 * Max Mehl ([@mxmehl](https://github.com/mxmehl))
 * Peter Keller ([@KellerPeter](https://github.com/Keller-Peter))
 * Simon Clavier ([@SimonClavier](https://github.com/SimonClavier))
-* Tu-Tho Thai
+* Tu-Tho Thai ([@TuThoThai](https://github.com/TuThoThai))
 
 ## Call for Presentations
 

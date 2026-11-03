@@ -5,6 +5,7 @@ This repository collects information and resources in the scope of the Railways 
 The hosts of this edition are:
 
 * Brede Dammen ([@BredeD](https://github.com/BredeD))
+* Céline Durupt ([@celine-sncf](https://github.com/celine-sncf))
 * Cornelius Schumacher ([@cornelius](https://github.com/cornelius))
 * Felix Gündling ([@felixguendling](https://github.com/felixguendling))
 * Max Mehl ([@mxmehl](https://github.com/mxmehl))
